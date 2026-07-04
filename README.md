@@ -6,7 +6,7 @@ No more running your HID applications with `sudo`.
 
 ---
 
-## ✨ Features
+## Features
 
 - Automatically detects connected USB devices using `lsusb`
 - Interactive terminal menu for selecting a device
